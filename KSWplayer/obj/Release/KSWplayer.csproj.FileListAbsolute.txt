@@ -1,0 +1,2 @@
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\obj\Release\KSWplayer.csprojAssemblyReference.cache
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\obj\Release\KSWplayer.csproj.CoreCompileInputs.cache

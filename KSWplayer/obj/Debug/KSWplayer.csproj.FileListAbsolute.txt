@@ -1,0 +1,14 @@
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\bin\Debug\KSWplayer.exe.config
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\bin\Debug\KSWplayer.exe
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\bin\Debug\KSWplayer.pdb
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\obj\Debug\KSWplayer.csprojAssemblyReference.cache
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\obj\Debug\KSWplayer.csproj.CoreCompileInputs.cache
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\obj\Debug\KSWplayer.exe
+C:\Users\kajze\source\repos\KSWplayer\KSWplayer\obj\Debug\KSWplayer.pdb
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\obj\Debug\KSWplayer.csprojAssemblyReference.cache
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\obj\Debug\KSWplayer.csproj.CoreCompileInputs.cache
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\obj\Debug\KSWplayer.exe
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\obj\Debug\KSWplayer.pdb
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\bin\Debug\KSWplayer.exe.config
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\bin\Debug\KSWplayer.exe
+C:\Users\kajze\Desktop\KSWplayerPULPIT\KSWplayer\bin\Debug\KSWplayer.pdb
